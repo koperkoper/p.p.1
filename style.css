@@ -1,0 +1,4 @@
+p { text-align: center;}
+#dont {background-color: rgb(142, 189, 186);}
+li[value="5"] {color: tomato;}
+.color {text-decoration: none;}
